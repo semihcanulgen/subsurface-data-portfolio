@@ -31,3 +31,11 @@ subsurface data workflows, one topic at a time.
 - [Wireline log fundamentals](notes/01_log_basics.md) — GR, RHOB,
   NPHI, DTC and the physics behind lithology and gas-effect
   crossplots.
+  
+- [Sequence stratigraphy fundamentals](notes/02_sequence_stratigraphy.md) —
+  accommodation space, system tracts (LST/TST/HST), and why the
+  maximum flooding surface is a strong source rock candidate.
+  
+- [Petroleum systems fundamentals](notes/03_petroleum_systems.md) —
+  the five elements, timing risk, vitrinite reflectance, and CRS
+  mapping logic.
